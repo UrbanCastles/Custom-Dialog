@@ -27,5 +27,4 @@ CustomDialog.showConfirmMessageBox(ParentFrame,"Sample Message.");
                           
 for more examples of using this API, you may open the examples from this Repository sources.
 Hope you like it! Thanks :)
-:)
 
