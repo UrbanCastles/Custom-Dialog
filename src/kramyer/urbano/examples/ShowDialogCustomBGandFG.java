@@ -10,7 +10,7 @@ import kramyer.urbano.dialogs.CustomDialog;
 
 /**
  *
- * @author CLOMA-ALCANTARA
+ * @author CLOMA-ALCANTARA & URBANO
  */
 public class ShowDialogCustomBGandFG {
     
