@@ -13,7 +13,7 @@ import kramyer.urbano.dialogs.CustomDialog;
  */
 public class ConfirmDialogPlain {
     public static void main(String[] args) {
-        String Message = "Do you like this Custom Dialog ah?";
+        String Message = "Do you like this Custom Dialog ahh?";
         
         int Choice = CustomDialog.showConfirmMessageBox(null, Message);
         
