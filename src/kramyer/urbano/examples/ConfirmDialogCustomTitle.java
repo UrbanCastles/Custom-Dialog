@@ -22,7 +22,7 @@ public class ConfirmDialogCustomTitle {
             CustomDialog.showMessageBox(null, "Me too!");
         }
         else{  // no button clicked
-            CustomDialog.showMessageBox(null, "I Understand!");
+            CustomDialog.showMessageBox(null, "I Understand you!");
         }
     }
     
