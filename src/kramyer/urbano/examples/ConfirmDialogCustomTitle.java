@@ -19,7 +19,7 @@ public class ConfirmDialogCustomTitle {
         int Choice = CustomDialog.showConfirmMessageBox(null, Message, FrameTitle);
         
         if(Choice == CustomDialog.YES_OPTION){  // yes Button Clicked
-            CustomDialog.showMessageBox(null, "Me too!");
+            CustomDialog.showMessageBox(null, "Me too, i like it!");
         }
         else{  // no button clicked
             CustomDialog.showMessageBox(null, "I Understand you!");
