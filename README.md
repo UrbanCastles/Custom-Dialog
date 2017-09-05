@@ -23,7 +23,7 @@ CustomDialog.showMessageBox(ParentFrame,"Sample Message.");
                           
 to use confirmations, use this sample code:
 
-```Java
+```scala
 CustomDialog.showConfirmMessageBox(ParentFrame,"Sample Message.");
 ```
                           
