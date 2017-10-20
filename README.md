@@ -19,7 +19,9 @@ current Dialog capabilites:
 
 to show Simple Dialog using this API, do the following code:
 
+```Java
 CustomDialog.showMessageBox(ParentFrame,"Sample Message.");
+```
                           
 to use confirmations, use this sample code:
 
