@@ -33,7 +33,7 @@ CustomDialog.showConfirmMessageBox(ParentFrame,"Sample Message.");
 <div>
   <img src = "https://github.com/MarkMyWord03/Custom-Dialog/blob/master/src/kramyer/urbano/error.jpg.jpeg">
   <img src = "https://github.com/MarkMyWord03/Custom-Dialog/blob/master/src/kramyer/urbano/info.jpg.jpeg">
-  </div>
+  </div><br>
   
 for more examples of using this API, you may open the examples from this Repository sources.
 Hope you like it! Thanks :):):)
