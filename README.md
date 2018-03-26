@@ -1,4 +1,4 @@
-# CustomDialog
+# JAVA Custom Dialog API
 New Look for message boxes and dialogs.
 
 This is project created to make a customisable message and confirm dialogs
