@@ -1,4 +1,5 @@
 # JAVA Custom Dialog API
+# Lorem Ipsum
 New Look for message boxes and dialogs.
 
 This is project created to make a customisable message and confirm dialogs
