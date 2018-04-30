@@ -1,5 +1,5 @@
 # JAVA Custom Dialog API
-# Lorem Ipsum
+
 New Look for message boxes and dialogs.
 
 This is project created to make a customisable message and confirm dialogs
@@ -21,13 +21,13 @@ current Dialog capabilites:
 to show Simple Dialog using this API, do the following code:
 
 ```Java
-CustomDialog.showMessageBox(ParentFrame,"Sample Message.");
+CustomDialog.showMessageBox(ParentFrame,"Sample Message. Lorem Ipsum");
 ```
                           
 to use confirmations, use this sample code:
 
 ```Java
-CustomDialog.showConfirmMessageBox(ParentFrame,"Sample Message.");
+CustomDialog.showConfirmMessageBox(ParentFrame,"Sample Message. Lorem Ipsum");
 ```
 
 <h2>Sample Screenshots</h2>
